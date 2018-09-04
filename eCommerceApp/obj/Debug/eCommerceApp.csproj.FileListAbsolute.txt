@@ -1,0 +1,6 @@
+C:\Samples\eCommerceApp\eCommerceApp\bin\Debug\eCommerceApp.dll
+C:\Samples\eCommerceApp\eCommerceApp\bin\Debug\eCommerceApp.pdb
+C:\Samples\eCommerceApp\eCommerceApp\obj\Debug\eCommerceApp.csprojAssemblyReference.cache
+C:\Samples\eCommerceApp\eCommerceApp\obj\Debug\eCommerceApp.csproj.CoreCompileInputs.cache
+C:\Samples\eCommerceApp\eCommerceApp\obj\Debug\eCommerceApp.dll
+C:\Samples\eCommerceApp\eCommerceApp\obj\Debug\eCommerceApp.pdb

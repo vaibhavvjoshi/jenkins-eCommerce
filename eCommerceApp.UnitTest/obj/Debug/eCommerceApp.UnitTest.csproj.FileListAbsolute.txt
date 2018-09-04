@@ -1,0 +1,10 @@
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\bin\Debug\eCommerceApp.UnitTest.dll
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\bin\Debug\eCommerceApp.UnitTest.pdb
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\bin\Debug\eCommerceApp.dll
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\bin\Debug\eCommerceApp.pdb
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\obj\Debug\eCommerceApp.UnitTest.csprojAssemblyReference.cache
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\obj\Debug\eCommerceApp.UnitTest.csproj.CoreCompileInputs.cache
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\obj\Debug\eCommerceApp.UnitTest.csproj.CopyComplete
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\obj\Debug\eCommerceApp.UnitTest.dll
+C:\Samples\eCommerceApp\eCommerceApp.UnitTest\obj\Debug\eCommerceApp.UnitTest.pdb
