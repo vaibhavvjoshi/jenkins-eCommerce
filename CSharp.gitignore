@@ -1,0 +1,5 @@
+# Ignore dot-files, except the .gitignore file.
+.*
+!.gitignore
+
+# (All rules from CSharp.gitignore)
